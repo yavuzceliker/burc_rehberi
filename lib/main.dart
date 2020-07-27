@@ -1,6 +1,8 @@
 import 'package:burc_rehberi/burcListesi.dart';
 import 'package:flutter/material.dart';
 
+import 'burcDetayi.dart';
+
 void main() {
   runApp(BurcRehberi());
 }
