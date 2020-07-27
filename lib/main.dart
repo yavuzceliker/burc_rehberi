@@ -19,7 +19,7 @@ class BurcRehberi extends StatelessWidget {
         primarySwatch: Colors.pink,
       ),
       darkTheme:ThemeData(brightness:Brightness.dark ) ,
-      themeMode: ThemeMode.light,
+      themeMode: ThemeMode.system,
       home: BurcListesi(),
     );
   }
